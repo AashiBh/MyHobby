@@ -1,0 +1,11 @@
+body{
+    background: linear-gradient(  #ff00b2 33%, #3f06ff 33%);
+    color: azure;
+    text-align: center;
+    font-family: 'Langar', cursive;
+}
+
+img{
+    border-radius: 50%;
+    width: 600px;
+}
